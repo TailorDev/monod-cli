@@ -52,5 +52,5 @@ sqlite3 places.sqlite "select distinct url from moz_places where url LIKE 'https
 
 ## License
 
-monod-ci is released under the MIT License. See the bundled
+monod-cli is released under the MIT License. See the bundled
 [LICENSE](LICENSE.md) file for details.
